@@ -19,8 +19,8 @@ My Solutions of (Algorithmic-Toolbox ) Assignments from Coursera ( University of
 * [Closest Points](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week4_programming_challenges/7_Closest_Points)
 ### Week5 programming challenges [week5-pdf](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week5_programming_challenges/week5_dynamic_programming1.pdf):  
 * [Money Change Again](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week5_programming_challenges/1_Money_Change_Again)
-* [Primitive Calculator]([https://github.com](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week5_programming_challenges/2_Primitive_Calculator)
-* [Longest Common Subsequence of Two Se6quence](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week5_programming_challenges/4_Longest_Common_Subsequence_of_Two_Sequence)
+* [Primitive Calculator](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week5_programming_challenges/2_Primitive_Calculator)
+* [Longest Common Subsequence of Two Sequence](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week5_programming_challenges/4_Longest_Common_Subsequence_of_Two_Sequence)
 ### Week6 programming challenges [week6-pdf](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week6_programming_challenges/week6_dynamic_programming2.pdf):
 * [Maximum Amount of Gold](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week6_programming_challenges/1_Maximum_Amount_of_Gold)
 * [Partitioning Souvenirs](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week6_programming_challenges/2_Partitioning_Souvenirs)
