@@ -4,9 +4,9 @@
 My Solutions of (Algorithmic-Toolbox ) Assignments from Coursera ( University of California San Diego ) 
 
 ## Table of content
-### Week1 programming challenges [week1-pdf](https://github.com):
+### Week1 programming challenges [week1-pdf](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week1_programming_challenges/week1_programming_challenges.pdf):
 * [sum of two digits](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week1_programming_challenges/1_Sum_of_Two_Digits)
-### Week2 programming challenges [week2-pdf]([https://github.com](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week2_programming_challenges/week2_algorithmic_warmup.pdf)):
+### Week2 programming challenges [week2-pdf](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week2_programming_challenges/week2_algorithmic_warmup.pdf):
 * [Fibonacci Number Again](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week2_programming_challenges/5_Fibonacci_Number_Again)
 * [ Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week2_programming_challenges/8_Last_Digit_of_the_Sum_of_Squares_of_Fibonacci_Numbers)
 ### Week3 programming challenges [week3-pdf](https://github.com/mouradmagdy/Algorithmic-Toolbox-San-Diego/blob/main/Algorithmic-Toolbox-San-Diego/week3_programming_challenges/week3_greedy_algorithms.pdf):
